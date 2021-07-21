@@ -1,0 +1,174 @@
+((YOU.PRO ((PRES LET.V) US.PRO (TRY.V SOMETHING.PRO))) !) <SEP> Let's try something.
+(((K WEALTH.N) ((PRES COME.V) (TO.P-ARG (NP+PREDS THOSE.PRO (WHO.REL ((PRES MAKE.V) (K (PLUR THING.N)) HAPPEN.V)))))) AND.CC ((K WEALTH.N) ((PRES COME.V) NOT (ADV-A (TO.P (NP+PREDS THOSE.PRO (WHO.REL ((PRES LET.V) (K (PLUR THING.N)) HAPPEN.V)))))))) <SEP> Wealth comes to those who make things happen, not to those who let things happen.
+(I.PRO ((PRES DO.AUX-S) NOT (EXPECT.V ANYTHING.PRO (FROM.P-ARG YOU.PRO)))) <SEP> I don't expect anything from you.
+(((PRES DO.AUX-S) YOU.PRO (WANT.V (SOME.D ((MOD-N FRUIT.N) JUICE.N)))) ?) <SEP> Do you want fruit juice?
+((HE.PRO (PAST COME.V)) (ADV-F (AT.P (SEVERAL.D (PLUR TIME.N))))) <SEP> He came several times.
+((SUB HOW.PQ ((PRES CAN.AUX-V) YOU.PRO (HAVE.V ((A.D LAPTOP.N) AND.CC (NOT (A.D ((MOD-N CELL.N) PHONE.N)))) *H))) ?) <SEP> How can you have a laptop and not a cell phone?
+(SUB HERE.A ((YOUR.D CHANGE.N) ((PRES BE.V) *H))) <SEP> Here is your change.
+(((PAST DO.AUX-S) YOU.PRO (LEAVE.V (A.D TIP.N))) ?) <SEP> Did you leave a tip?
+((IT.PRO ((PRES BE.V) NOT SERIOUS.A)) AND.CC (I.PRO ((PRES DO.AUX-S) NOT (BEAR.V HIM.PRO (A.D GRUDGE.N))))) <SEP> It's not serious, I don't bear him a grudge.
+((YOU.PRO ((PRES TELL.V) ME.PRO (ANS-TO (WHAT.PRO (PAST HAPPEN.V))))) !) <SEP> Tell me what happened.
+((K (PLUR WOLF.N)) ((PRES WILL.AUX-S) NOT USUALLY.ADV-F (ATTACK.V (K (PLUR PERSON.N))))) <SEP> Wolves won't usually attack people.
+((THEY.PRO ((PRES WILL.AUX-S) NEVER.ADV-E ACCEPT.V)) (IT.PRO ((PRES BE.V) (TOO.MOD-A FAR.A)))) <SEP> They will never accept; it's too far.
+((SUB (ADV-A (FOR.P (K (N+PRED ONCE.N (IN.P (MY.D LIFE.N)))))) (I.PRO ((PRES PROG) DO.V) (A.D ((MOD-N GOOD.A) DEED.N)) *H)) AND.CC (IT.PRO ((PRES BE.V) USELESS.A))) <SEP> For once in my life I'm doing a good deed... And it is useless.
+((YOU.PRO ((PRES TELL.V) ME.PRO (ABOUT.P-ARG IT.PRO))) !) <SEP> Tell me about it!
+(| Nara| ((PRES BE.V) (= (A.D ((MOD-N (QUIET.A AND.CC BEAUTIFUL.A)) CITY.N))))) <SEP> Nara is a quiet and beautiful city.
+((SUB HOW.PQ ((PAST DO.AUX-S) (YOUR.D INTERVIEW.N) (GO.V *H))) ?) <SEP> How did your interview go?
+(((PRES BE.V) YOU.PRO ANGRY.A (ADV-A (AT.P (ANS-TO (SUB WHAT.PRO (I.PRO ((PAST SAY.V) *H))))))) ?) <SEP> Are you angry at what I said?
+(((PRES CAN.AUX-S) YOU.PRO (KEEP.V (A.D SECRET.N))) ?) <SEP> Can you keep a secret?
+(((PAST DO.AUX-S) YOU.PRO (FALL.V (IN.P-ARG (K LOVE.N)) (WITH.P-ARG HER.PRO) (ADV-A (AT.P (K ((MOD-N FIRST.A) SIGHT.N)))))) ?) <SEP> Did you fall in love with her at first sight?
+((SUB WHEN.PQ ((PAST DO.AUX-S) YOU.PRO (SEE.V HER.PRO (KA (DANCE.V (ADV-A (WITH.P HIM.PRO)))) *H))) ?) <SEP> When did you see her dancing with him?
+(YOU.PRO ((PRES SHOULD.AUX-V) NOT (LOOK.V DOWN.A (ON.P-ARG HIM.PRO)))) <SEP> You shouldn't look down on him.
+(YOU.PRO ((PRES MAY.AUX-V) (MAKE.V (K USE.N) (OF.P-ARG (HIS.D LIBRARY.N))))) <SEP> You may make use of his library.
+(YOU.PRO ((PRES MUST.AUX-V) (ALLOW.V (FOR.P-ARG (HIS.D YOUTH.N))))) <SEP> You must allow for his youth.
+(YOU.PRO ((PRES HAD_BETTER.AUX-S) (BLINK.V (AT.P-ARG (HIS.D (PLUR ECCENTRICITY.N)))))) <SEP> You had better blink at his eccentricities.
+(YOU.PRO ((PRES SHOULD.AUX-S) NOT (PLAY.V (ADV-A (ON.P (HIS.D ((MOD-N GENEROUS.A) NATURE.N))))))) <SEP> You should not play on his generous nature.
+(YOU.PRO ((PAST SHOULD.AUX-V) (PERF (TELL.V HIM.PRO (THE.D TRUTH.N))))) <SEP> You should have told him the truth.
+(((PAST DO.AUX-S) NOT YOU.PRO (WRITE.V (A.D LETTER.N) (ADV-A (TO.P HIM.PRO)))) ?) <SEP> Didn't you write a letter to him?
+(((PRES NEED.AUX-V) YOU.PRO (WORK.V (ADV-E (ON.P | Sunday|)))) ?) <SEP> Need you work on Sunday?
+(YOU.PRO ((PRES OUGHT_TO.AUX-V) (ASK.V (FOR.P-ARG (((YOUR.D (TEACHER-OF.N *S)) 'S) PERMISSION.N))))) <SEP> You ought to ask for your teacher's permission.
+(((PRES BE.V) YOU.PRO (FOND.A (OF.P-ARG (KA SWIM.V)))) ?) <SEP> Are you fond of swimming?
+(MULTI-SENT (YOU.PRO ((PRES CAN.AUX-V) (RELY.V (ON.P-ARG HIM.PRO)))) (HE.PRO NEVER.ADV-E ((PRES LET.V) YOU.PRO DOWN.ADV-A))) <SEP> You can rely on him. He never lets you down.
+(YOU.PRO ((PRES MUST.AUX-V) (CLEAR.V (THE.D TABLE.N)))) <SEP> You must clear the table.
+((YOU.PRO ((PAST BUY.V) (THE.D FOOD.N))) SO.CC ((IF.PS (I.PRO ((PRES BUY.V) (THE.D WINE.N)))) (THAT.PRO ((PRES WILL.AUX-S) (EVEN.V (K (PLUR THING.N)) UP.ADV-A))))) <SEP> You bought the food, so if I buy the wine that will even things up.
+(I.PRO ((PRES TAKE.V) IT.PRO (THAT (YOU.PRO ((PRES BE.AUX-V) (FULLY.ADV-A (PASV ACQUAINT.V) (WITH.P-ARG (THE.D (PLUR FACT.N))))))))) <SEP> I take it that you are fully acquainted with the facts.
+(YOU.PRO ((PRES BE.V) (TOO.MOD-A (NEGLIGENT.A (OF.P-ARG (THOSE.D (N+PREDS (PLUR PERSON.N) (AROUND.P YOU.PRO)))))))) <SEP> You are too negligent of those around you.
+(((PRES PROG) YOU.PRO (WRITE.V (A.D LETTER.N))) ?) <SEP> Are you writing a letter?
+(YOU.PRO ((PRES HAD_BETTER.AUX-S) NOT (DRIVE.V (A.D CAR.N)))) <SEP> You had better not drive a car.
+(YOU.PRO ((PRES CAN.AUX-V) NOT (AFFORD.V (TO (NEGLECT.V (YOUR.D HEALTH.N)))))) <SEP> You can't afford to neglect your health.
+(YOU.PRO ((PRES BE.V) (RESPONSIBLE.A (FOR.P-ARG (ANS-TO (SUB WHAT.PRO (YOU.PRO ((PRES PERF) (DO.V *H))))))))) <SEP> You are responsible for what you have done.
+(YOU.PRO ((PRES HAVE.V) ONLY.ADV-S (TO (FOLLOW.V (THE.D (PLUR DIRECTION.N)))))) <SEP> You have only to follow the directions.
+(((PAST DO.AUX-S) YOU.PRO (GO.V OUT.ADV-A (ADV-E (DURING.P (LAST.D NIGHT.N))))) ?) <SEP> Did you go out last night?
+(YOU.PRO ((PRES CAN.AUX-V) (GET.V (IN.P-ARG (K TOUCH.N)) (WITH.P-ARG HIM.PRO) (ADV-E (AT.P (HIS.D HOME.N))) TONIGHT.ADV-E))) <SEP> You can get in touch with him at his home tonight.
+(YOU.PRO ((PRES HAD_BETTER.AUX-S) NOT (GO.V OUT.ADV-A TODAY.ADV-E))) <SEP> You'd better not go out today.
+(YOU.PRO ((PRES SEEM.V) (TO.P-ARG ((PROG THINK.V) (ADV-A (OF.P (SOME.D (N+PREDS THING.N ELSE.A)))))))) <SEP> You seem to be thinking of something else.
+(((PRES DO.AUX-S) YOU.PRO (STUDY.V | English|)) ?) <SEP> Do you study English?
+((YOU.PRO ((PRES CAN.AUX-S) NOT (SPEAK.V | English|))) .?) <SEP> You can't speak English, can you?
+(YOU.PRO (NEARLY.ADV-A ((PAST POKE.V) ME.PRO (ADV-A (IN.P (THE.D EYE.N))) (ADV-A (WITH.P (YOUR.D PENCIL.N)))))) <SEP> You nearly poked me in the eye with your pencil.
+(YOU.PRO ((PRES PERF) (MAKE.V (THE.D ((MOD-N (VERY.MOD-A SAME.A)) MISTAKE.N)) AGAIN.ADV-S))) <SEP> You have made the very same mistake again.
+((YOU.PRO (STILL.ADV-S ((PRES PROG) (SMART.V (ADV-A (OVER.P (MY.D (PLUR REMARK.N)))))))) ?) <SEP> Are you still smarting over my remarks?
+((YOU.PRO ((PRES PERF) NOT (WASH.V (YOUR.D (PLUR HAND.N)) YET.ADV-E))) .?) <SEP> You haven't washed your hands yet, have you?
+(YOU.PRO ((PAST NEGLECT.V) (TO (TELL.V ME.PRO (TO (BUY.V (K BREAD.N))))))) <SEP> You neglected to tell me to buy bread.
+(YOU.PRO ((PRES OUGHT_TO.AUX-V) (TAKE.V (((YOUR.D (FATHER-OF.N *S)) 'S) ADVICE.N)))) <SEP> You ought to take your father's advice.
+(YOU.PRO ((PRES HAVE.V) NOT (ANY.D MONEY.N))) <SEP> You haven't any money.
+(((PRES WILL.AUX-S) | Jane| SING.V) ?) <SEP> Will Jane sing?
+((A-GEN.D COMPUTER.N) ((PRES CAN.AUX-V) (CALCULATE.V (ADV-A (VERY.MOD-A RAPID.A))))) <SEP> A computer can calculate very rapidly.
+(((PRES DO.AUX-S) (THE.D (| 19| BUS.N)) (GO.V (TO.P-ARG | Main Street|))) ?) <SEP> Does the 19 bus go to Main Street?
+((((PRES WILL.AUX-S) WE.PRO (BE.V (IN.P (K TIME.N)) (ADV-A (FOR.P (THE.D PLANE.N))))) (IF.PS (WE.PRO ((PRES LEAVE.V) NOW.ADV-E)))) ?) <SEP> Will we be in time for the plane if we leave now?
+(((PRES WILL.AUX-S) YOU.PRO (MAKE.V (K ROOM.N) (ADV-A (FOR.P ME.PRO)))) ?) <SEP> Will you make room for me?
+(I.PRO ((PRES BE.V) (= (NP+PREDS (A.D ((MOD-N COMPANY.N) MAN.N)) (= (AN.D ((MOD-N ORDINARY.A) ((MOD-N SALARIED.A) ((MOD-N OFFICE.N) WORKER.N))))))))) <SEP> I'm a company man - an ordinary salaried office worker.
+(I.PRO ((PRES MUST.AUX-V) (THINK.V OVER.ADV-A (THE.D MATTER.N) (ADV-E (BEFORE.P (KA (GIVE.V (MY.D ANSWER.N)))))))) <SEP> I must think over the matter before giving my answer.
+(THERE.PRO ((PRES BE.V) (= (NO.D (N+PREDS THING.N (SUB THT.REL (I.PRO ((PRES CAN.AUX-V) (DO.V *H)))) (BUT.P (KA (GIVE_UP.V (THE.D (N+PREDS IDEA.N (OF.P (KA (GO.V ABROAD.ADV-A))))))))))))) <SEP> There's nothing I can do but give up the idea of going abroad.
+((I.PRO ((PAST PERF) NOT (WAIT.V LONG.ADV-E))) (BEFORE.PS (HE.PRO ((PAST COME.V) ALONG.ADV-A)))) <SEP> I hadn't waited long before he came along.
+((SUB (AT-LOC.P WHICH.PRO) ((PRES BE.V) (THE.D NEWSPAPER.N) *H)) ?) <SEP> Where's the newspaper?
+((YOU.PRO ((PRES DO.AUX-S) NOT ALWAYS.ADV-F (RIDE.V (ADV-A (ON.P ((SOMEONE.PRO 'S) COAT-TAIL.N)))))) !) <SEP> Do not always ride on someone's coat-tail.
+((SUB WHAT.PRO ((PRES BE.V) (A.D ((MOD-N TYPICAL.A) ((MOD-N | British.A|) DINNER.N))) (= *H))) ?) <SEP> What is a typical British dinner?
+(THERE.PRO ((PRES BE.V) (= (A.D (N+PREDS DRAGONFLY.N (ON.P (THE.D CEILING.N))))))) <SEP> There is a dragonfly on the ceiling.
+(THERE.PRO ((PRES BE.V) (= (A.D (N+PREDS LAMP.N (ON.P (THE.D CEILING.N))))))) <SEP> There is a lamp on the ceiling.
+((AS.PS (IT.PRO ((PRES BE.V) FINE.A))) (I.PRO ((PRES WILL.AUX-S) (GO.V OUT.ADV-A)))) <SEP> As it is fine, I'll go out.
+(IT-EXTRA.PRO ((PRES BE.V) (UNFORTUNATE.A (THAT ((THE.D WEATHER.N) ((PRES SHOULD.AUX-S) (BE.V (SO.MOD-A NICE.A)))))))) <SEP> It is fortunate that the weather is so nice.
+((WHAT.PRO ((PRES BE.V) (= (THE.D (N+PREDS MATTER.N (WITH.P HIM.PRO)))))) ?) <SEP> What is the matter with him?
+((YOU.PRO (((PRES BE.V) SURE.A) AND.CC ((PRES CALL.V) ME.PRO TONIGHT.ADV-E))) !) <SEP> Be sure and call me tonight.
+(((IF.PS (YOU.PRO (((PRES CUT.V) (K CLASS.N)) OR.CC ((PRES DO.V) SOMETHING.PRO)))) ((IT.PRO ((CF WILL.AUX-S) NOT (SURPRISE.V YOU.PRO))) (IF.PS (IT.PRO ((CF SHOW.V) UP.ADV-A (ADV-E (ON.P (YOUR.D ((MOD-N REPORT.N) CARD.N))))))))) .?) <SEP> If you cut class or something...it wouldn't surprise you if it showed up on your report card, would it?
+((SUB (ADV-A (WITH.P WHOM.PRO)) ((PRES PROG) I.PRO (SPEAK.V *H))) ?) <SEP> With whom am I speaking?
+(HE.PRO ((PAST BAIL.V) (ON.P-ARG US.PRO) (JUST.ADV-S (WHEN.PS (WE.PRO ((PAST NEED.V) HIM.PRO)))))) <SEP> He bailed on us just when we needed him.
+((SUB WHEN.PQ ((PRES WILL.AUX-S) IT.PRO (BE.V GOOD.A *H))) ?) <SEP> When will it be good?
+(((PRES PERF) YOU.PRO RECENTLY.ADV-E (TAKE.V (A.D TRIP.N) ANYWHERE.ADV-E)) ?) <SEP> Have you recently taken a trip anywhere?
+((SUB WHERE.PQ ((PRES CAN.AUX-S) I.PRO (MAIL.V (THESE.D (PLUR LETTER.N)) *H))) ?) <SEP> Where can I mail these letters?
+((SUB (WHICH.D (PLUR SPORTS.N)) ((PRES DO.AUX-S) YOU.PRO (LIKE.V *H))) ?) <SEP> Which sports do you like?
+(MULTI-SENT (HE.PRO (((PRES BE.V) (A_LITTLE.MOD-A ON_EDGE.A)) TODAY.ADV-E)) ((I.PRO ((CF WILL.AUX-S) NOT (RATTLE.V (HIS.D CAGE.N)))) (IF.PS (I.PRO ((CF WERE.V) (= YOU.PRO)))))) <SEP> He's a little on edge today. I wouldn't rattle his cage if I were you.
+(((PRES BE.V) NOT THEY.PRO (ON.P (THE.D SEA.N)) (ADV-E (DURING.P (THE.D NIGHT.N)))) ?) <SEP> Aren't they on the sea during the night?
+(I.PRO ((PRES WANT.V) (TO (KNOW.V (ANS-TO (SUB HOW.ADV-A (HE.PRO ((PAST PLAN.V) THIS.PRO *H)))))))) <SEP> I want to know how he planned this.
+(((SUB (TO.P-ARG WHICH.PRO) ((CF WILL.AUX-S) YOU.PRO (GO.V *H))) (IF.PS (YOU.PRO ((CF CAN.AUX-V) TIME_TRAVEL.V)))) ?) <SEP> Where would you go if you could time travel?
+(((PRES CAN.AUX-V) I.PRO (SEE.V YOU.PRO (ADV-E (FOR.P (A.D MOMENT.N))))) ?) <SEP> Can I see you a moment?
+(((NQUAN (HOW.MOD-A MANY.A)) (PLUR COUNTRY.N)) ((PRES BE.V) (K (PLUR (MEMBER-OF.N (THE.D | United Nations.N|))))) ?) <SEP> How many countries are members of the United Nations?
+(I.PRO ((PRES WANT.V) (TO (KNOW.V (ANS-TO (WHO.PRO ((PAST DO.V) THAT.PRO))))))) <SEP> I want to know who did that.
+(((YOU.PRO ((PRES DO.AUX-S) NOT (TELL.V ME.PRO REF.PRO))) (IF.PS (YOU.PRO ((PRES DO.AUX-S) NOT (WANT.V (TO (TELL.V ME.PRO REF.PRO))))))) !) <SEP> Don't tell me if you don't want to.
+(MULTI-SENT ((A.D ((MOD-N WEB.N) SITE.N)) ((PRES MAY.AUX-S) ((PASV CREATE.V) (ADV-A (IN.P ((AN.D INTRANET.N) (A.D ((MOD-N (LOCAL.A OR.CC PRIVATE.A)) CLOUD.N)) OR.CC (A.D ((MOD-N ((MOD-A VIRTUAL.A) PRIVATE.A)) NETWORK.N)))))))) ((A.D ((MOD-N | Web.N|) SITE.N)) ((PRES BE.V) (FOR.P (THE.D WORLD.N))))) <SEP> A web site may be created in an intranet, a local or private cloud, or a virtual private network. A Web site is for the world.
+(((K ((MOD-N SEMANTIC.A) EQUIVALENCE.N)) ((PRES BE.V) (PROTEAN.A AS_WELL_AS.CC FUZZY.A))) ((NP+PREDS WHAT.PRO (SUB THT.REL ((K HOI_POLLOI.N) ((PRES FIND.V) *H EQUIVALENT.A)))) ((PRES MAY.AUX-S) (SUB (TO.P (K COGNOSCENTI.N)) (BE.V (QUITE.MOD-A DISTINCT.A) (ADV-A *H)))))) <SEP> Semantic equivalence is protean as well as fuzzy: what hoi polloi find equivalent may to cognoscenti be quite distinct.
+(IT.PRO ((PRES BE.V) NOT LOCKED.A)) <SEP> It isn't locked.
+((SUB WHY.ADV-S ((PAST DO.AUX-S) YOU.PRO (VOLUNTEER.V (TO (DO.V THIS.PRO)) *H))) ?) <SEP> Why did you volunteer to do this?
+(((PRES WOULD.AUX-S) YOU.PRO (TAKE.V | Tom| (TO.P-ARG | Boston|) (ADV-A (WITH.P YOU.PRO)))) ?) <SEP> Would you take Tom to Boston with you?
+(((PRES CAN.AUX-V) NOT YOU.PRO (DO.V SOMETHING.PRO)) ?) <SEP> Can't you do something?
+((WHY.ADV-S ((PRES BE.V) I.PRO (SO.MOD-A SLEEPY.A))) ?) <SEP> Why am I so sleepy?
+(((PRES DO.AUX-S) YOU.PRO (BELIEVE.V (IN.P-ARG (K ((MOD-N GUIDE.V) (PLUR STAR.N)))))) ?) <SEP> Do you believe in guiding stars?
+((IF.PS (YOU.PRO ((PRES WANT.V) IT.PRO))) (YOU.PRO ((PRES CAN.AUX-V) (HAVE.V IT.PRO)))) <SEP> If you want it, you can have it.
+(((PRES CAN.AUX-V) I.PRO (HELP.V YOU.PRO SOMEHOW.ADV-A)) ?) <SEP> Can I help you somehow?
+(((PRES DO.AUX-S) YOU.PRO (THINK.V (THT (| Tom| ((PRES BE.V) HANDSOME.A))))) ?) <SEP> Do you think Tom is handsome?
+((SUB WHAT.PRO ((CF WILL.AUX-S) YOU.PRO (SUGGEST.V (THAT (I.PRO ((PRES DO.V) *H)))))) ?) <SEP> What would you suggest that I do?
+((WHAT.PRO ((PAST MAKE.V) YOU.PRO (SAY.V THAT.PRO))) ?) <SEP> What made you say that?
+(((PRES DO.AUX-S) YOU.PRO (WANT.V (TO (LEARN.V | English|)))) ?) <SEP> Do you want to learn English?
+(I.PRO ((PAST MEET.V) (MY.D BOYFRIEND.N) THERE.ADV-E)) <SEP> I met my boyfriend there.
+(I.PRO ((CF WILL.AUX-S) (LIKE.V (TO (SEE.V (MORE.D (OF.P YOU.PRO))))))) <SEP> I'd like to see more of you.
+(((VOC | Tom|) ((PRES MAY.AUX-S) I.PRO (SPEAK.V (ADV-A (WITH.P YOU.PRO))))) ?) <SEP> Tom, may I speak with you?
+((I.PRO ((PRES DO.AUX-S) NOT (SUPPOSE.V (THT (YOU.PRO ((CF WILL.AUX-S) STILL.ADV-S (HAVE.V (((K ((MOD-N LAST.A) | Saturday.N|)) 'S) PAPER.N)))))))) ?) <SEP> I don't suppose you'd still have last Saturday's paper?
+(((PRES DO.AUX-S) YOU.PRO (KNOW.V (ANS-TO (SUB (ADV-A (HOW.MOD-A FAST.A)) (YOU.PRO ((PAST PROG) (GO.V *H))))))) ?) <SEP> Do you know how fast you were going?
+(((PRES BE.V) YOU.PRO (SURE.A (THT (IT.PRO ((PRES BE.V) SAFE.A))))) ?) <SEP> Are you sure it's safe?
+(((PRES CAN.AUX-V) YOU.PRO (SHUT.V (THE.D DOOR.N) (ADV-A (ON.P (YOUR.D (N+PREDS WAY.N (OUT.P REF.PRO))))))) ?) <SEP> Can you shut the door on your way out?
+(((PRES DO.AUX-S) YOU.PRO (BELIEVE.V (IN.P-ARG (THE.D (N+PREDS POWER.N (OF.P (K LOVE.N))))))) ?) <SEP> Do you believe in the power of love?
+((| Tom| ((PRES BE.V) RUDE.A)) .?) <SEP> Tom is rude, isn't he?
+(((PRES DO.AUX-S) YOU.PRO (BELIEVE.V (IN.P-ARG (K EVOLUTION.N)))) ?) <SEP> Do you believe in evolution?
+(I.PRO ((PRES COULD.AUX-V) NOT (TELL.V YOU.PRO (THE.D TRUTH.N)))) <SEP> I couldn't tell you the truth.
+((YOU.PRO ((PRES CAN.AUX-V) (DO.V THIS.PRO))) .?) <SEP> You can do this, can't you?
+(((PRES COULD.AUX-S) I.PRO (JUST.ADV-S (HAVE.V (A.D MINUTE.N)))) ?) <SEP> Could I just have a minute?
+((SUB HOW.PQ ((PRES DO.AUX-S) (K (PLUR SKUNK.N)) SCREAM.V *H)) ?) <SEP> How do skunks scream?
+(((PRES CAN.AUX-V) YOU.PRO (MAKE.V THEM.PRO SMILE.V)) ?) <SEP> Can you make them smile?
+((SUB (ADV-A (HOW.MOD-A MUCH.A)) ((PRES DO.AUX-S) YOU.PRO (KNOW.V *H (ADV-A (ABOUT.P HER.PRO))))) ?) <SEP> How much do you know about her?
+(((PRES PERF) YOU.PRO (LOSE.V (THE.D (N+PREDS KEY.N (OF.P (YOUR.D HOUSE.N)))))) ?) <SEP> Have you lost the key of your house?
+(((PRES DO.AUX-S) YOU.PRO (KNOW.V (THE.D (DIFFERENCE.N (BETWEEN.P-ARG ((K TWILL.N) AND.CC (K CORDUROY.N))))))) ?) <SEP> Do you know the difference between twill and corduroy?
+(((PRES DO.AUX-S) YOU.PRO (LIKE.V (K (N+PREDS (PLUR NOODLE.N) (WITH.P (K BEEF.N)))))) ?) <SEP> Do you like noodles with beef?
+(| Mary| ((PAST CHEW.V) (ON.P-ARG (HER.D (PLUR NAIL.N))))) <SEP> Mary chewed on her nails.
+((WHAT.PRO ((PRES BE.V) WRONG.A (ADV-A (WITH.P (THIS.D PLAN.N))))) ?) <SEP> What's wrong with this plan?
+(I.PRO ((PRES WISH.V) (THT (YOU.PRO ((CF WILL.AUX-S) NOT (DRIVE.V (ADV-A (SO.MOD-A FAST.A)))))))) <SEP> I wish you wouldn't drive so fast.
+((IF.PS ((THE.D DEVIL.N) ((PRES BE.V) POWERLESS.A))) (HE.PRO ((PRES SEND.V) (HIS.D (WIFE-OF.N *S))))) <SEP> If the devil is powerless, he sends his wife.
+(((PRES COULD.AUX-S) SHE.PRO (BE.V (= ((| Tom| 'S) (DAUGHTER-OF.N *S))))) ?) <SEP> Could she be Tom's daughter?
+((WHEN.PS (| Tom| ((PAST BE.V) (= (A.D BOY.N))))) (HE.PRO (((PAST LIVE.V) (ADV-E (NEAR.P (A.D SWAMP.N)))) AND.CC ((PAST CREATE.V) (HIS.D ((MOD-N OWN.A) ZOO.N)))))) <SEP> When Tom was a boy, he lived near a swamp and created his own zoo.
+((SUB WHAT.PRO ((PRES DO.AUX-S) YOU.PRO (USUALLY.ADV-S (DO.V *H (ADV-E (ON.P (A.D (| Friday| NIGHT.N)))))))) ?) <SEP> What do you usually do on Friday night?
+(((PAST DO.AUX-S) | Tom| (REALLY.ADV-S TELL.V | Mary| (TO (NOT (COME.V HERE.ADV-A TOMORROW.ADV-E))))) ?) <SEP> Did Tom really tell Mary not to come here tomorrow?
+((ADV-S (ACCORD.V (TO.P-ARG | Tom|))) (| Mary| ((PAST GET.V) MARRIED.A (ADV-E ((MOD-N LAST.A) MONTH.N))))) <SEP> According to Tom, Mary got married last month.
+(MULTI-SENT (I.PRO ((PRES BE.AUX-V) (GO.V (TO (GO.V (TO.P-ARG (THE.D BANK.N))))))) (((PRES CAN.AUX-V) YOU.PRO (WATCH.V (THE.D GRATIN.N))) ?)) <SEP> I'm going to go to the bank. Can you watch the gratin?
+(((PAST DO.AUX-S) | Tom| (FIGURE.V OUT.ADV-A THAT.PRO (ADV-A (BY.P HIMSELF.PRO)))) ?) <SEP> Did Tom figure that out by himself?
+((THE.D (N+PREDS SET.N (FOR.P (THIS.D ((MOD-N FIRST.A) ((MOD-N STAGED.A) PRESENTATION.N)))))) ((PAST BE.V) (= (A.D (N+PREDS ((MOD-N CUTAWAY.N) ((MOD-N ((MOD-N TWO.A) STORY.N)) HOUSE.N)) (BY.P | Michael Anania|)))))) <SEP> The set for this first staged presentation was a cutaway two-story house by Michael Anania .
+(BUT.ADV-S ((((THE.D BANK.N) 'S) (N+PREDS ((MOD-N RETAIL.N) (PLUR ACTIVITY.N)) (IN.P | Latin America|))) ((PRES BE.V) (LIKELY.A (TO (PASV CUT_BACK.V)))))) <SEP> But the bank 's retail activities in Latin America are likely to be cut back .
+((SUB (WHAT.D (PART-OF.N *REF)) ((PAST DO.AUX-S) (K ((MOD-N | U.S..N|) (PLUR WARNING.N))) (PLAY.V *H (IN.P-ARG (((THE.D MAJOR.N) 'S) (UNWILLINGNESS.N (TO ((PULL.V (THE.D TRIGGER.N)) (ADV-E (SUB (AT-TIME.P WHICH.REL) (HE.PRO (((((PAST HAVE.V) | General Noriega|) (IN.P-ARG (K CUSTODY.N))) BUT.CC ((PAST BE.V) (UNDER.P (K (ATTACK.N (BY.P-ARG (K ((PRO.P | Noriega|) (PLUR TROOP.N))))))))) (ADV-E *H))))))))))))) ?) <SEP> What part did U.S. warnings play in the major 's unwillingness to pull the trigger when he had General Noriega in custody , but was under attack by pro-Noriega troops ?
+(|"| ((IF.PS (PU TRUE.A)) (QT-ATTR ((THE.D COURT.N) ((PAST WRITE.V) *QT))) ((THIS.D CONTENTION.N) ((CF WILL.AUX-S) (JUSTIFY.V (K (N+POST DISMISSAL.N (OF.P-ARG (THESE.D (PLUR ACTION.N))) (ON.P-ARG (K ((MOD-N PRUDENTIAL.A) (PLUR GROUND.N)))))))))) |"|) <SEP> " If true , " the court wrote , " this contention would justify dismissal of these actions on prudential grounds . "
+((IF.PS (I.PRO ((PRES SELL.V) REF1.PRO NOW.ADV-E))) (I.PRO ((PRES WILL.AUX-S) (TAKE.V (A.D ((MOD-N BIG.A) LOSS.N)))))) <SEP> If I sell now , I 'll take a big loss . "
+((THE.D HERBICIDE.N) ((PRES CONTAIN.V) (THE.D (N+PREDS ((MOD-N (HIGHLY.MOD-A TOXIC.A)) CHEMICAL.N) DIOXIN.N)))) <SEP> The herbicide contains the highly toxic chemical dioxin .
+(|"| (I.PRO ((PAST PERF) (FORGET.V (THE.D TASTE.N)))) |"|) <SEP> `` I 'd forgotten the taste . ''
+((NP+PREDS | Dr. Louis Lasagna| (CHAIRMAN-OF.N (THE.D (N+PREDS PANEL.N (STUDY.V (ANS-TO (SUB HOW.PQ (TO (SPEED.V UP.ADV-A (THE.D PROCESS.N) *H))))))))) ((PAST SAY.V) (THT ((HIS.D COMMITTEE.N) ((PRES HOPE.V) (TO (ESTABLISH.V (K (N+PREDS (PLUR MECHANISM.N) (FOR.P (TO (MEDIATE.V (THE.D (N+PREDS (PLUR FIREWORK.N) (BETWEEN.P ((THE.D | FDA.N|) AND.CC (THE.D ((MOD-N CANCER.N) INSTITUTE.N)))))))))))))))))) <SEP> Dr. Louis Lasagna , chairman of the panel studying how to speed up the process , said his committee hopes to establish `` mechanisms to mediate '' the fireworks between the FDA and the cancer institute .
+((THE.D (| Gramm-Rudman| LAW.N)) ((PRES STATE.V) (THAT ((NP+PREDS (((THE.D ADMINISTRATION.N) 'S) ((MOD-N DEFICIT.N) FORECAST.N)) (NOT (= (THE.D (N+PREDS ONE.N ((PASV MAKE.V) (BY.P-ARG | CB0|))))))) ((PRES DETERMINE.V) (WHETHER ((THE.D ((MOD-N AUTOMATIC.A) (PLUR CUT.N))) ((CF WILL.AUX-S) (BE.V NECESSARY.A))))))))) <SEP> The Gramm-Rudman law states that the administration 's deficit forecast - not the one made by CB0 - determines whether the automatic cuts would be necessary .
+((YOU.PRO ((PRES NAME.V) (THE.D (N+PREDS ((MOD-N VARIOUS.A) ((MOD-N COSTUMED.A) (PLUR PERSONA.N))) (OF.P | Dr. Henry Pym|))))) !) <SEP> Name the various costumed personas of Dr. Henry Pym .
+((SUB WHAT.PRO ((PRES DO.AUX-S) (|"| GRINGO.N |"|) (MEAN.V *H))) ?) <SEP> What does gringo mean ?
+((YOU.PRO ((PRES NAME.V) (A.D (N+PREDS TIGER.N (THAT.REL ((PRES BE.V) EXTINCT.A)))))) !) <SEP> Name a tiger that is extinct .
+((YOU.PRO ((PRES NAME.V) (THE.D (N+PREDS (| On Stage| CHARACTER.N) (((WHO.REL 'S) FACE.N) ((PAST BE.AUX-V) NEVER.ADV-S (PASV SEE.V))))))) !) <SEP> Name the On Stage character whose face was never seen .
+(((SUB (WHAT.D ((MOD-N TWO.A) (PLUR COLOR.N))) ((PRES BE.V) YOU.PRO (BLIND.A (TO.P-ARG *H)))) (IF.PS (YOU.PRO ((PRES SUFFER.V) (FROM.P-ARG (K PROTANOPIA.N)))))) ?) <SEP> What two colors are you blind to if you suffer from protanopia ?
+((SUB WHERE.PQ ((PRES CAN.AUX-S) I.PRO (FIND.V (THE.D (N+PREDS (PLUR LYRIC.N) (FOR.P | R&B|))) *H))) ?) <SEP> Where can I find lyrics for R&B ?
+(((SUB WHAT.PRO ((PRES BE.V) (THE.D (N+PREDS (PLUR CHANCE.N) (OF.P (K PREGNACY.N)))) (= *H))) (IF.PS ((THE.D PENIS.N) ((PRES DO.AUX-S) NOT (PENETRATE.V (THE.D VAGINA.N)))))) ?) <SEP> What are the chances of pregnacy if the penis does not penetrate the vagina ?
+((YOU.PRO ((PRES NAME.V) (THE.D (N+PREDS ((MOD-N ((MOD-N FAST.A) FOOD.N)) CHAIN.N) (WITH.P (THE.D ((MOD-N GOLDEN.A) (PLUR ARCH.N)))))))) !) <SEP> Name the fast food chain with the golden arches .
+((SUB WHO.PRO ((PAST BE.V) (THE.D (CHAIRMAN-OF.N (THE.D (N+PREDS ((MOD-N | Senate.N|) ((MOD-N SELECT.N) COMMITTEE.N)) (THAT.REL ((PAST TRY.V) (TO (GET.V (TO.P-ARG (THE.D (BOTTOM-OF.N | Watergate|))))))))))) (= *H))) ?) <SEP> Who was chairman of the Senate select committee that tried to get to the bottom of Watergate ?
+((SUB HOW.PQ ((PRES CAN.AUX-V) YOU.PRO (DEFINE.V (K TIME.N) *H))) ?) <SEP> How can you define time ?
+((SUB HOW.PQ ((PRES DO.AUX-S) YOU.PRO (SAY.V (|"| 2 |"|) (ADV-A (IN.P | Latin|)) *H))) ?) <SEP> How do you say 2 in Latin ?
+((YOU.PRO ((PRES NAME.V) (FOUR.D (N+PREDS ((MOD-N COMIC.N) (PLUR STRIP.N)) (ABOUT.P (K (PLUR PILOT.N))))))) !) <SEP> Name four comic strips about pilots .
+(((WHAT.D ((MOD-N FAMOUS.A) ((MOD-N COMMUNIST.A) LEADER.N))) ((PAST DIE.V) (ADV-E (IN.P | Mexico City|)))) ?) <SEP> What famous communist leader died in Mexico City ?
+(REF.PRO ((PAST (PASV PRODUCE.V)) (BY.P-ARG (AN.D ((MOD-N ANONYMOUS.A) VOLUNTEER.N))))) <SEP> Produced by An Anonymous Volunteer
+(|"| (BUT.ADV-S (ADV-S (FOR.P (SUCH.D (= (A.D WORK.N))))) (YOU.PRO ((PRES MUST.AUX-S) (PERF (NEED.V (K (PLUR BOOK.N))))))) (((PAST HAVE.V) YOU.PRO (ANY.D REF.N)) ?) |"|) <SEP> " But for such a work you must have needed books--had you any ? "
+(|"| (((VOC (K (PLUR GENTLEMAN.N))) (QT-ATTR ((THE.D CHIEF.N) ((PAST ADD.V) *QT (ADV-A (TURN.V (ADV-A (TOWARDS.P (THE.D ((MOD-N YOUNG.A) (PLUR MAN.N)))))))))) PERHAPS.ADV-S ((THE.D OFFER.N) ((PRES MAY.AUX-S) NOT (APPEAR.V (VERY.MOD-A TEMPTING.A) (TO.P-ARG YOU.PRO))))) (BUT.ADV-S ((IF.PS (YOU.PRO ((CF SHOULD.AUX-S) EVER.ADV-E (FEEL.V (INCLINED.A (TO (PAY.V ME.PRO (A.D ((MOD-N SECOND.A) VISIT.N)) (ADV-E (AT.P (ANY.D (N+PREDS PLACE.N (SUB WHERE.REL (I.PRO ((CF MAY.AUX-S) (BE.V (AT.P *H)))))))))))))))) (YOU.PRO ((PRES SHALL.AUX-S) (BE.V WELCOME.A)))))) |"|) <SEP> " Gentlemen , " added the chief , turning towards the young men , " perhaps the offer may not appear very tempting to you ; but if you should ever feel inclined to pay me a second visit , wherever I may be , you shall be welcome . "
+(|"| ((NO.YN (HE.PRO ((PAST WISH.V) (TO (SPEAK.V (TO.P-ARG (YOUR.D EXCELLENCY.N))))))) ((I.PRO ((PAST TELL.V) HIM.PRO (THT (YOU.PRO ((PAST BE.V) GONE_OUT.A))))) AND.CC ((ADV-E (AFTER.P (SOME.D DISPUTE.N))) (HE.PRO (((PAST BELIEVE.V) ME.PRO) AND.CC ((PAST GIVE.V) ME.PRO (NP+PREDS (THIS.D LETTER.N) (SUB WHICH.REL (HE.PRO ((PAST PERF) (BRING.V *H (ADV-A (WITH.P HIM.PRO)))))) (ALREADY.ADV-S SEALED.A)))))))) |"|) <SEP> " No , he wished to speak to your excellency ; I told him you were gone out , and after some dispute he believed me and gave me this letter , which he had brought with him already sealed . "
+((THE.D SERVANT.N) ((PAST ENTER.V) (JUST.ADV-S (AS.PS (HE.PRO ((PAST PERF) FINISH.V)))))) <SEP> The servant entered just as he had finished .
+(|"| (YES.YN (VOC | sir|)) |"|) <SEP> " Yes , sir . "
+(GRADUALLY.ADV-E (((MY.D MIND.N) ((PAST COME.V) BACK.ADV-A AGAIN.ADV-S)) ((MY.D (PLUR PULSE.N)) ((PAST QUIET.V) DOWN.ADV-A (ADV-A (TO.P (A.D ((MOD-N (MORE.MOD-A NATURAL.A)) TIME.N)))))) AND.CC (I.PRO ((PAST BE.V) ONCE_MORE.ADV-S (IN.P (K (POSSESSION.N (OF.P-ARG MYSELF.PRO)))))))) <SEP> Gradually my mind came back again , my pulses quieted down to a more natural time , and I was once more in possession of myself .
+((I.PRO ((PAST PERF) (LEARN.V (NP+PREDS (HER.D ((MOD-N WHOLE.A) CHARACTER.N)) (WHICH.REL ((PAST BE.V) (WITHOUT.P ((K MYSTERY.N) OR.CC (K DISGUISE.N))))))))) (SHE.PRO ((PAST BE.V) ((COQUETTISH.A BUT.CC (NOT HEARTLESS.A)) AND.CC (EXACTING.A BUT.CC (NOT (WORTHLESSLY.MOD-A SELFISH.A))))))) <SEP> I had learnt her whole character , which was without mystery or disguise : she was coquettish but not heartless ; exacting , but not worthlessly selfish .
+(((THE.D (BEST-OF.N (K (PLUR MIND.N)))) ((PRES WILL.AUX-S) (HAVE.V (THEIR.D (PLUR FETICH.N))))) AND.CC (THEY.PRO SOMETIMES.ADV-F ((PRES FEEL.V) (VAGUELY.MOD-A (WOUNDED.A (BY.P-ARG (THE.D (WANT.N (OF.P-ARG (K (RESPECT.N (OF.P-ARG (K LOGIC.N))))))))))))) <SEP> The best of minds will have their fetiches , and they sometimes feel vaguely wounded by the want of respect of logic .
+(((PRES CAN.AUX-V) YOU.PRO READ.V) ?) <SEP> Can you read ? "
+(((PRES SHALL.AUX-S) WE.PRO (GO.V (ADV-A (INTO.P (K (PLUR ECSTACY.N)))) (ADV-A (OVER.P | Russia|)))) ?) <SEP> Shall we go into ecstasies over Russia ?
+((AND.ADV-S (SUB (HOW.MOD-A FAR.A) ((PRES DO.AUX-S) (THIS.D COMBINATION.N) (CHARACTERIZE.V (THE.D (N+PREDS PLAN.N (WHICH.REL ((PRES PERF) ((PASV REPORT.V) (BY.P-ARG (THE.D CONVENTION.N))))))) *H)))) ?) <SEP> And how far does this combination characterize the plan which has been reported by the convention ?
+((HIS.D ((MOD-N GREAT.A) HALL.N)) EVEN.ADV-S ((PAST (PASV HANG.V)) (WITH.P-ARG (K TAPESTRY.N)))) <SEP> His great hall , even , was hung with tapestry .
+(SUB (|"| ((BUT.ADV-S ((PRES WILL.AUX-S) NOT YOU.PRO (COME.V (TO.P-ARG (THIS.D ((MOD-N OTHER.A) TABLE.N)))))) ?) |"|) (| Anna Pavlovna| ((PAST REPEAT.V) *H))) <SEP> But wo n't you come to this other table ? " repeated Anna Pavlovna .
+((OH.X (SUB HOW.ADV-A ((PRES CAN.AUX-V) YOU.PRO (SLEEP.V *H)))) ?) <SEP> " Oh , how can you sleep ?
+((WHEN.PS (HE.PRO (PRES COME.V))) (HE.PRO ((PRES WILL.AUX-S) (FIND.V (THT (YOU.PRO ALREADY.ADV-S (((PRES KNOW.V) (HIS.D ((SISTER-OF.N *S) AND.CC (FATHER-OF.N *S)))) AND.CC ((PRES (PASV LIKE.V)) (BY.P-ARG THEM.PRO))))))))) <SEP> When he comes , he 'll find you already know his sister and father and are liked by them .
+((ONE.D (OF.P (THE.D (PLUR GENERAL.N)))) ((PAST PROG) (REPORT.V (ADV-A (TO.P HIM.PRO)) (ANS-TO (SUB WHERE.PQ ((THE.D ((PLUR GUN.N) AND.CC (PLUR PRISONER.N))) ((PAST PERF) ((PASV CAPTURE.V) *H)))))))) <SEP> One of the generals was reporting to him where the guns and prisoners had been captured .
+((|"| ((WHO.PRO ((PRES PERF) (MAKE.V ME.PRO (= (A.D (N+PREDS JUDGE.N (OVER.P THEM.PRO))))))) ?) |"|) ((PAST BE.V) (= (ALL.D (N+PREDS (PLUR THING.N) (SUB THT.REL (HE.PRO ((PAST SAY.V) *H SMILINGLY.ADV-A (ADV-A (TO.P | Alyosha|)))))))))) <SEP> " Who has made me a judge over them ? " was all he said , smilingly , to Alyosha .
+(SUB (TO.P-ARG (THY.D GRACE.N)) (REP (I.PRO ((PRES ASCRIBE.V) (NP+PREDS IT.PRO (= *P)) (*H AND.CC (TO.P-ARG (THY.D MERCY.N))))) (THAT (THOU.PRO ((PRES PERF) (MELT.V AWAY.ADV-A (MY.D (PLUR SIN.N)) (AS.PS (IT.PRO ((CF WERE.V) ICE.N))))))))) <SEP> To Thy grace I ascribe it , and to Thy mercy , that Thou hast melted away my sins as it were ice .
+(THERE.PRO ((PRES BE.V) ((PLUR TIME.N) AND.CC (PLUR SEASON.N)) EVEN.ADV-S YET.ADV-E (WHEN.PS (I.PRO ((PRES DO.AUX-S) NOT (FEEL.V (THAT (I.PRO ((PRES PERF) (MAKE.V (ANY.D ((MOD-N GREAT.A) (HEADWAY.N (IN.P-ARG (KA (LEARN.V (TO (LIKE.V | Josie Pye|)))))))))))))))))) <SEP> There are times and seasons even yet when I do n't feel that I 've made any great headway in learning to like Josie Pye !
+(((PRES WILL.AUX-S) YOU.PRO (DO.V ME.PRO (THAT.D FAVOUR.N))) ?) <SEP> Will you do me that favour ? "
+(PU ((MOD-N POOR.A) ((MOD-N LITTLE.A) CHAP.N))) <SEP> " Po ' little chap . "
